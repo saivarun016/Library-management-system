@@ -1,8 +1,8 @@
 **Name:** KONANKI RAVI TEJA
 **Company:** CODTECH IT SOLUTIONS
-**ID：** CT04DS7810
+**ID:** CT04DS7810
 **Domain:** PYTHON PROGRAMMING
-**Duration: ** SEPTEMBER to OCTOBER 2024
+**Duration:** SEPTEMBER to OCTOBER 2024
 
 ## Overview of the Project
 
